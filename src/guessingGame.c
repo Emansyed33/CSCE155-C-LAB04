@@ -42,6 +42,8 @@ int main(int argc, char **argv) {
     numGuesses++;
   }
 
+
   printf("Congratulations, you found it!  Number of guesses: %d\n", numGuesses);
   return 0;
 }
+

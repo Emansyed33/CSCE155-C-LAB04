@@ -224,3 +224,8 @@ picks a number between a certain range.  The computer should
 then formulate an optimal guessing strategy and the user indicates
 if the actual number is correct, lower or higher.  The program
 should be "smart enough" to know when the user is cheating.
+#   C S C E 1 5 5 - C - L a b 0 4  
+ #   C S C E 1 5 5 - C - L a b 0 4  
+ #   C S C E 1 5 5 - C - L a b 0 4  
+ #   C S C E 1 5 5 - C - L a b 0 4  
+ 
