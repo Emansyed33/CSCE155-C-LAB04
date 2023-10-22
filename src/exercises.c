@@ -1,6 +1,6 @@
 /**
- * Author(s):
- * Date:
+ * Author(s): EMAN SYED
+ * Date: 22/10/2023
  *
  * This is a series of exercises to introduce loop
  * control structures.
@@ -25,6 +25,10 @@ int main(int argc, char **argv) {
   }
 
   //1. Rewrite the given for loop as an equivalent while loop
+  int i = 10;
+  while(i<20){
+    printf("%d",i);
+  }
   for(int i=10; i<20; i+=3) {
     printf("%d ", i);
   }
